@@ -1,3 +1,3 @@
-export { default as Card } from "./Cards/Cards";
-export { default as Chart } from "./Chart/Chart";
-export { default as CountryPicker } from "./CountryPicker/CountryPicker";
+export { default as Card } from "./Cards/Cards.component";
+export { default as Chart } from "./Chart/Chart.component";
+export { default as CountryPicker } from "./CountryPicker/CountryPicker.component";
